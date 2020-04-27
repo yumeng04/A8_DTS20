@@ -247,7 +247,8 @@ header{
 .lesso{
     margin-left: 20px;
     margin-top: 20px;
-    border-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
     background-color: white;
     box-shadow: 0 0.5em 1em -0.125em rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.02)
 }
